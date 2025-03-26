@@ -20,7 +20,7 @@ int main(){
 	     }
 	}
 	     if(j==size){
-		    printf("%d is not present in array\n",num);
+		    printf("%d is not present in list\n",num);
 	}
 	return 0;
 }
